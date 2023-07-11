@@ -1,0 +1,6 @@
+name: TEST
+main: me.test.ru.TEST
+version: 1.0
+
+commands:
+  test:
